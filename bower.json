@@ -10,7 +10,7 @@
     "showdown"
   ],
   "homepage": "https://github.com/pow22/showdownjs-deckbox",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
