@@ -7,4 +7,4 @@ Adds support for:
 
 ## Installation
 
-    npm install showdownjs-deckbox
+    npm install showdown-deckbox
