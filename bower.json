@@ -1,0 +1,21 @@
+{
+  "name": "showdown-deckbox",
+  "description": "A Showdown extension to add terse markdown for links to trading cards on https://deckbox.org.",
+  "main": "./src/index.js",
+  "authors": [
+    "Peter White <pow@pitofdespair.org>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "showdown"
+  ],
+  "homepage": "https://github.com/pow22/showdownjs-deckbox",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
